@@ -4,7 +4,7 @@
 
 ### Explicación:
 
-- **Hello World**: El archivo `hell_world.ccp` solo imprime un mensaje en la terminal
+- **Hello World**: El archivo `hello_world.ccp` solo imprime un mensaje en la terminal
 - **Calculadora**: La calculadora suma y multiplica dos números y muestra el resultado en la terminal.
 
 
