@@ -4,7 +4,7 @@
 
 ### Explicación:
 
-- **Hello World**: El archivo `helloWorld.js` solo imprime un mensaje en la terminal
+- **Hello World**: El archivo `helloWorld.ccp` solo imprime un mensaje en la terminal
 - **Calculadora**: La calculadora suma y multiplica dos números y muestra el resultado en la terminal.
 
 
@@ -14,7 +14,7 @@
 ### Hello World
 Para compilar:
 ```sh
-**g++ hello_world.cpp -o hello_world.exe**
+g++ hello_world.cpp -o hello_world.exe
 ```
 Para ejecutar:
 ```sh
@@ -24,11 +24,11 @@ Para ejecutar:
 ### Calculadora
 Para compilar:
 ```sh
-**g++ calculadora.cpp -o calculadora.exe**
+g++ calculadora.cpp -o calculadora.exe
 ```
 Para ejecutar:
 ```sh
-**./calculadora**    
+./calculadora  
 ```
 
 
