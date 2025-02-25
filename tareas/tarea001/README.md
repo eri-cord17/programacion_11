@@ -5,7 +5,7 @@
 ### Explicación:
 
 - **Hello World**: El archivo `helloWorld.js` solo imprime un mensaje en la terminal
-- **Calculadora**: La calculadora suma dos números y muestra el resultado en la terminal.
+- **Calculadora**: La calculadora suma y multiplica dos números y muestra el resultado en la terminal.
 
 ---
 
